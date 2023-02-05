@@ -16,7 +16,7 @@ I made this program when I conducted Compton Scattering lab in a class.
 
 The fitting parameter was then used to make a "energy vs angle" graph and calculate its uncertainty to verify Relativistic model of Compton scattering.
   
-The detail of the experiment and the resulted graph can be seen from ![here](Gaussian Fit/ComptonLab_Report.docx)
+The detail of the experiment and the resulted graph can be seen from [here](Gaussian Fit/ComptonLab_Report.docx)
 
 </details>
 
