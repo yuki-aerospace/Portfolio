@@ -4,7 +4,7 @@
 
 
 <details>
-<summary>## Gaussian Fit</summary>
+## <summary> Gaussian Fit</summary>
 
 I made this program when I conducted Compton Scattering lab in a class. 
   
