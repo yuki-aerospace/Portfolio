@@ -20,7 +20,6 @@ The detail of the experiment and the resulted graph can be seen from ![here]([(h
 
 </details>
 
-## Coming Sooon
-- hand written recognition system using Tensorflow
+
 
 
