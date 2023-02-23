@@ -40,7 +40,7 @@ I made this program when I conducted Compton Scattering lab in a class.
 
 The fitting parameter was then used to make a "energy vs angle" graph and calculate its uncertainty to verify Relativistic model of Compton scattering.
   
-The detail of the experiment and the resulted graph can be seen from this link (https://docs.google.com/document/d/1WI4l42ngp_pML02N_3L0Cc4sF8qouW1r3FyLNdvqsJs/edit)
+The detail of the experiment and the resulted graph can be seen from this link (https://rb.gy/zywvqb)
 
 </details>
 
