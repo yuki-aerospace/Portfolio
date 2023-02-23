@@ -2,7 +2,6 @@
 ## Yuki Watariguchi's portfolio
 
 ## Weather App (Python)
-
 <details>
   <summary> Details </summary>
   
@@ -45,6 +44,12 @@ The detail of the experiment and the resulted graph can be seen from this link (
 
 </details>
 
+## N-body Orbital Simulation (Numpy, VPython)
+## Handwritten Recognition System (TensorFlow)
+## Reversi (Tkinter)
 
+# Coming Soon..
+- Double Pendulum Simulation (Numpy, Scipy, Matplotlib)
+- Particle Swarm Optimization Algorithm (Matlab)
 
 
