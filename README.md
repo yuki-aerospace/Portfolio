@@ -21,6 +21,7 @@ The information I retrived was
 - temperature
 - humidity
 - weather icon
+  
 Detail information of the API can be seen from this link. (https://openweathermap.org/current)
 
 [Here](Weather_app/weatherapp_image.png) is the image of expected GUI display.
