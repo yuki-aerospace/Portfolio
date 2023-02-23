@@ -6,7 +6,7 @@
 <details>
   <summary> Details </summary>
   
-This program is a weather app. Tkinter was used for GUI.
+This program is a weather app. Tkinter was used for GUI, and weather information was retrived from openweathermap API.
 
 Here is an instruction of how to use this app. 
 1. User enters the name of a city.
