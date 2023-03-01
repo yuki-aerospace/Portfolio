@@ -1,7 +1,7 @@
 # Portfolio
 ## Yuki Watariguchi's portfolio
 
-## Weather App (Python)
+## [Weather App](https://github.com/yuki-aerospace/Portfolio/tree/main/Weather_app) (Python)
 <details>
   <summary> Details </summary>
   
@@ -44,9 +44,9 @@ The detail of the experiment and the resulted graph can be seen from this link (
 
 </details>
 
-## N-body Orbital Simulation (Numpy, VPython)
-## Handwritten Recognition System (TensorFlow)
-## Reversi (Tkinter)
+## [N-body Orbital Simulation](N-body orbital simulation.py) (Numpy, VPython)
+## [Handwritten Recognition System](handwritten_recognition.py) (TensorFlow)
+## [Reversi](reversi.py) (Tkinter)
 
 # Coming Soon..
 - Double Pendulum Simulation (Numpy, Scipy, Matplotlib)
