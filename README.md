@@ -44,7 +44,7 @@ The detail of the experiment and the resulted graph can be seen from this link (
 
 </details>
 
-## [N-body Orbital Simulation]([N-body orbital simulation.py](https://github.com/yuki-aerospace/Portfolio/blob/main/N-body%20orbital%20simulation.py))(Numpy, VPython)
+## ([N-body Orbital Simulation](https://github.com/yuki-aerospace/Portfolio/blob/main/N-body%20orbital%20simulation.py))(Numpy, VPython)
 ## [Handwritten Recognition System](handwritten_recognition.py) (TensorFlow)
 ## [Reversi](reversi.py) (Tkinter)
 
