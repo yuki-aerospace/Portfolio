@@ -28,7 +28,7 @@ Detail information of the API can be seen from this link. (https://openweatherma
 </details>
 
 
-## Gaussian Fit (Mathematica)
+## [Gaussian Fit](https://github.com/yuki-aerospace/Portfolio/tree/main/Gaussian%20Fit) (Mathematica)
 <details>
   <summary> Details </summary>
   
